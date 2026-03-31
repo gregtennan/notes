@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Reorganised test fixtures
 - Documented config options
+
+## 2026-03-31
+- Added CONTRIBUTING.md stub
